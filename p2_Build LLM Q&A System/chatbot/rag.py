@@ -88,7 +88,7 @@ from llama_index.core import PromptTemplate
 def update_prompt_template(
         query_engine,
         qa_prompt_tmpl_str = (
-        "You are called Company XiaoMi, a question-answering robot for the company. You need to carefully read the reference information and then answer the questions raised by everyone."
+        "You are called Company Alex, a question-answering robot for the company. You need to carefully read the reference information and then answer the questions raised by everyone."
         "Notes:\n"
         "1. Answer questions based on contextual information rather than prior knowledge.\n"
         "2. For tool consultation questions, be sure to provide download address links.\n"
