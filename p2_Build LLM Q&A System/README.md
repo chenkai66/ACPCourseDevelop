@@ -1,13 +1,5 @@
 # 2.0 Project Background
 
-<video width="960" height="540" controls playbackRate="1.2">
-    <source src="https://cloud.video.taobao.com/vod/YGvLqNlVbkavLOayS3wu6BGBv5YVpBXZW4Dx7vv-94Y.mp4" type="video/mp4">
-</video>
-
-> Note: This video is automatically generated based on the following text and images using large language models (LLMs). [If the demo video cannot be played properly, please click here](https://cloud.video.taobao.com/vod/YGvLqNlVbkavLOayS3wu6BGBv5YVpBXZW4Dx7vv-94Y.mp4)
-
-## Text Version Below
-
 In this chapter, you will begin the first project of this course.
 You work for an educational content development company. With the continuous influx of new employees, frequent Q&A demands have led to significant time and resource costs.
 
@@ -30,7 +22,7 @@ After the Q&A system had been running for some time, it was observed that the vo
 The company leadership realized that the current Q&A system had many limitations. Primarily, the system's mechanism was based on fixed rules and similarity judgments, which meant that when employees used different phrasing, the system might fail to answer the question.
 Additionally, the workload of manually configuring Q&A pairs was substantial, resulting in a low return on investment.
 
-<img src="https://gw.alicdn.com/imgextra/i2/O1CN01vGr3eE1q1Hc1niZAV_!!6000000005435-0-tps-714-469.jpg" alt="A pile of documents" width="400px">
+<img src="https://img.alicdn.com/imgextra/i4/O1CN01DJRqdn1XkeEAKIarZ_!!6000000002962-2-tps-1114-524.png" alt="A pile of documents" width="400px">
 
 In response to this situation, the company leadership decided to assign you to take charge of this matter, hoping to resolve the issue thoroughly.
 After conducting research, you plan to leverage the most advanced large language models (LLMs) technology to build an intelligent Q&A application. The intelligent application based on LLMs does not require configuring Q&A pairs. It can understand human language well and accurately answer questions based on the company’s knowledge base, effectively reducing employee inquiries and improving work efficiency.
